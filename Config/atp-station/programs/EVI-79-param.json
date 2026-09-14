@@ -1,0 +1,16 @@
+{
+
+  "Electrical_Properties":{
+    "V_max":24.0,
+    "I_max":0.500
+  },
+
+  "Wear_in":{
+    "V":24.0,
+    "I":0.500,
+    "Cycles":50,
+    "On_Time_ms":250,
+    "Off_Time_ms":250
+  }
+
+}
