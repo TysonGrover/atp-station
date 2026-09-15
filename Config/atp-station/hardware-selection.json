@@ -1,6 +1,6 @@
 {
 
-  "IO":"USB-6001",
-  "Power_supply":"Simulation"
+  "IO":"Arduino Uno",
+  "Power_supply":"PSP-603"
 
 }

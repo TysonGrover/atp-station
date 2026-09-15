@@ -11,6 +11,14 @@
     "Cycles":50,
     "On_Time_ms":250,
     "Off_Time_ms":250
+  },
+
+  "Drop_out":{
+    "V":24.0,
+    "I":0.500,
+    "V_reduced":4.0,
+    "V_perturb":0.01,
+    "Plunger_Threshold":1.0
   }
 
 }
