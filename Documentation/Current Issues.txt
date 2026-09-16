@@ -1,0 +1,4 @@
+Current Issues:
+	- Arduino Uno loses connection at times. Currently I am programmatically reconnecting to it if it has an issue.
+	- PSP-603 Input Buffer is very low. It can't handle many commands at a time.
+	- PSP-603 stops responding to remote commands after awhile. I can kind of see why this thing was sold at auction.

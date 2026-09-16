@@ -1,0 +1,122 @@
+Version 1 - Basic - >$100
+
+	Tests:
+	- Wear-in
+	- Drop-out
+	- Closing Response Time
+	- Pull-in
+	- Hold-in
+	- Opening Response Time
+
+	Hardware:
+	- Power Supply
+	- USB I/O
+
+	Software:
+	- DQMH
+	- LVOOP
+	- HAL
+
+Version 2 - Pressurized Testing - >$500
+
+	Tests:
+	- Wear-in
+	- Drop-out (HP/LP)
+	- Closing Response Time (HP/LP)
+	- Pull-in (HP/LP)
+	- Hold-in (HP/LP)
+	- Opening Response Time (HP/LP)
+
+	Hardware:
+	- Pressure controller
+	- Power Supply
+	- USB I/O
+
+	Software:
+	- DQMH
+	- LVOOP
+	- HAL
+	- Add test json writer vi
+
+Version 3 - Pressure & Flow Testing - >$400
+
+	Tests:
+	- Wear-in
+	- Drop-out (HP/LP)
+	- Closing Response Time (HP/LP)
+	- Pull-in (HP/LP)
+	- Hold-in (HP/LP)
+	- Opening Response Time (HP/LP)
+	- Pressure drop @ flow rate
+
+	Hardware:
+	- Flow controller
+	- Pressure controller
+	- Power Supply
+	- USB I/O
+
+Version 4 - Electrical, Pressure, & Flow Testing - >$400
+
+	Tests:
+	- Coil Resistance
+	- Wear-in
+	- Drop-out (HP/LP)
+	- Closing Response Time (HP/LP)
+	- Pull-in (HP/LP)
+	- Hold-in (HP/LP)
+	- Opening Response Time (HP/LP)
+	- Pressure drop @ flow rate
+
+	Hardware:
+	- Flow controller
+	- Pressure controller
+	- Power Supply
+	- Digital Multimeter
+	- USB I/O
+
+Version 5 - Electrical, Pressure, & Flow Testing - > $500
+
+	Tests:
+	- Coil Resistance
+	- Dielectric Test
+	- Insulation Resistance
+	- Wear-in
+	- Drop-out (HP/LP)
+	- Closing Response Time (HP/LP)
+	- Pull-in (HP/LP)
+	- Hold-in (HP/LP)
+	- Opening Response Time (HP/LP)
+	- Pressure drop @ flow rate
+
+	Hardware:
+	- Flow controller
+	- Pressure controller
+	- Power Supply
+	- Digital Multimeter
+	- Withstand Voltage Tester
+	- USB I/O
+
+Version 6 - Electrical, Pressure, Flow, & Specialty Testing - >$1,000
+
+	Tests:
+	- Coil Resistance
+	- Dielectric Test
+	- Insulation Resistance
+	- Wear-in
+	- Drop-out (HP/LP)
+	- Closing Response Time (HP/LP)
+	- Pull-in (HP/LP)
+	- Hold-in (HP/LP)
+	- Opening Response Time (HP/LP)
+	- Pressure drop @ flow rate
+	- Heat rise
+	- Dryness bake
+
+	Hardware:
+	- Flow controller
+	- Pressure controller
+	- TC Module
+	- Power Supply
+	- Digital Multimeter
+	- Withstand Voltage Tester
+	- USB I/O
