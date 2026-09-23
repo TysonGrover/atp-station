@@ -16,7 +16,7 @@
   "Drop_out":{
     "V":24.0,
     "I":0.500,
-    "V_reduced":4.0,
+    "V_reduced":8.0,
     "V_perturb":0.01,
     "Plunger_Threshold":0.25,
     "V_MIN":1.0
