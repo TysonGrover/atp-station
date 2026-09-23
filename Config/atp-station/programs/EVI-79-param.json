@@ -8,7 +8,7 @@
   "Wear_in":{
     "V":24.0,
     "I":0.500,
-    "Cycles":50,
+    "Cycles":10,
     "On_Time_ms":250,
     "Off_Time_ms":250
   },
@@ -16,10 +16,10 @@
   "Drop_out":{
     "V":24.0,
     "I":0.500,
-    "V_reduced":8.0,
+    "V_reduced":2.0,
     "V_perturb":0.01,
-    "Plunger_Threshold":0.25,
-    "V_MIN":1.0
+    "Plunger_Threshold":0.01,
+    "V_MIN":0.2
   },
 
   "ORT":{
