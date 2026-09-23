@@ -18,14 +18,15 @@
     "I":0.500,
     "V_reduced":4.0,
     "V_perturb":0.01,
-    "Plunger_Threshold":1.0
-  }
+    "Plunger_Threshold":0.25,
+    "V_MIN":1.0
+  },
 
   "ORT":{
     "V":24.0,
     "I":0.500,
     "ORT_MAX_ms":100.0
-  }
+  },
 
   "CRT":{
     "V":26.0,
