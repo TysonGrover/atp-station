@@ -22,6 +22,15 @@
     "V_MIN":0.2
   },
 
+  "Pull_in":{
+    "V":0.0,
+    "I":0.500,
+    "V_increased":2.0,
+    "V_perturb":0.01,
+    "Plunger_Threshold":0.01,
+    "V_MAX":13.0
+  },
+
   "ORT":{
     "V":24.0,
     "I":0.500,
