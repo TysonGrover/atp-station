@@ -1,0 +1,46 @@
+{
+
+  "Electrical_Properties":{
+    "V_max":24.0,
+    "I_max":0.500
+  },
+
+  "Wear_in":{
+    "V":24.0,
+    "I":0.500,
+    "Cycles":10,
+    "On_Time_ms":250,
+    "Off_Time_ms":250
+  },
+
+  "Drop_out":{
+    "V":24.0,
+    "I":0.500,
+    "V_reduced":2.0,
+    "V_perturb":0.01,
+    "Plunger_Threshold":0.01,
+    "V_MIN":0.2
+  },
+
+  "Pull_in":{
+    "V":0.0,
+    "I":0.500,
+    "V_increased":2.0,
+    "V_perturb":0.01,
+    "Plunger_Threshold":0.01,
+    "V_MAX":13.0
+  },
+
+  "ORT":{
+    "V":24.0,
+    "I":0.500,
+    "ORT_MAX_ms":100.0
+  },
+
+  "CRT":{
+    "V":26.0,
+    "I":0.500,
+    "CRT_MAX_ms":100.0
+  }
+
+}
