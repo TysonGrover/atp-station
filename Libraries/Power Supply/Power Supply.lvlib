@@ -38,6 +38,8 @@
 				<Item Name="read voltage (Reply Payload)--cluster.ctl" Type="VI" URL="../read voltage (Reply Payload)--cluster.ctl"/>
 				<Item Name="read state Argument--cluster.ctl" Type="VI" URL="../read state Argument--cluster.ctl"/>
 				<Item Name="read state (Reply Payload)--cluster.ctl" Type="VI" URL="../read state (Reply Payload)--cluster.ctl"/>
+				<Item Name="set all outputs Argument--cluster.ctl" Type="VI" URL="../set all outputs Argument--cluster.ctl"/>
+				<Item Name="set all outputs (Reply Payload)--cluster.ctl" Type="VI" URL="../set all outputs (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -60,6 +62,7 @@
 			<Item Name="read current.vi" Type="VI" URL="../read current.vi"/>
 			<Item Name="read voltage.vi" Type="VI" URL="../read voltage.vi"/>
 			<Item Name="read state.vi" Type="VI" URL="../read state.vi"/>
+			<Item Name="set all outputs.vi" Type="VI" URL="../set all outputs.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
